@@ -1,0 +1,9 @@
+<?php
+class Book{
+		static $num=0;
+		public function 
+		
+		
+		
+		
+		}
